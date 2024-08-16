@@ -20,6 +20,12 @@ deploy:
   snowflake_link: 
   databricks_link: https://marketplace.databricks.com/details/facfaf55-00f6-496c-a8db-a395631130ec/John-Snow-Labs_Clinical-Deidentification
 
+
+deploy:
+  sagemaker_link: https://aws.amazon.com/marketplace/pp/prodview-ept2dbql5slue
+  snowflake_link: 
+  databricks_link: https://marketplace.databricks.com/details/facfaf55-00f6-496c-a8db-a395631130ec/John-Snow-Labs_Clinical-Deidentification
+
 ---
 
 ## Description
